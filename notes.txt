@@ -1,0 +1,6 @@
+-Java needed to run properly. Ideally v. 8 and 11.
+    -written in Scala but uses Java Virtual Machine to run
+        -Scala = Java + Functional Programming + Cleaner Syntax
+         aka easier to read + less code than Java
+        -PySpark is just a Python wrapper around the Scala/Java engine
+
