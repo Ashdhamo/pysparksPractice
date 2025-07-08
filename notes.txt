@@ -1,4 +1,4 @@
--Java needed to run properly. Ideally v. 8 and 11.
+-Java needed to run properly.
     -written in Scala but uses Java Virtual Machine to run
         -Scala = Java + Functional Programming + Cleaner Syntax
          aka easier to read + less code than Java
